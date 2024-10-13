@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a developer who develops small personal projects in my free time
+I'm a developer who likes to develop small personal projects in my free time
 
 
 # 💻 Tech Stack:
